@@ -1,47 +1,77 @@
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
-<h3 align="center">Desarrollador apasionado por el código limpio, las buenas prácticas y los desafíos tecnológicos 💡</h3>
+<h1 align="center">¡Hola, soy [Tu Nombre]! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffb3&center=true&vCenter=true&lines=💻+Full+Stack+Developer;🎯+Apasionado+por+la+tecnología;🚀+Siempre+aprendiendo+algo+nuevo!" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coder gif">
+</p>
+
+<p align="center">
+  Desarrollador entusiasta de software 💻 | Apasionado por el aprendizaje continuo 📚 | Explorador de nuevas tecnologías 🚀
 </p>
 
 ---
 
-### 🚀 Tecnologías y herramientas que domino:
+## 🚀 Sobre mí
+
+🎓 Actualmente, me encuentro aprendiendo y desarrollando proyectos con tecnologías modernas.  
+🧩 Me interesa el desarrollo móvil, web y el diseño de bases de datos.  
+🔍 Me gusta resolver problemas y entender cómo funcionan las cosas.  
+🎯 Siempre buscando mejorar mis habilidades y asumir nuevos desafíos.  
+
+---
+
+## 🛠️ Tecnologías que utilizo
+
+### 🖥️ IDEs y Herramientas
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge)
+![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=white&style=for-the-badge)
+![PlantUML](https://img.shields.io/badge/PlantUML-0e355d?style=for-the-badge&logo=uml&logoColor=white)
+
+### 💻 Lenguajes y Frameworks
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+
+### 🗄️ Bases de Datos
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 ---
 
-### 📊 Mis estadísticas en GitHub:
+## 🌟 Proyectos Destacados
+
+🚧 *En construcción... ¡Muy pronto compartiré algunos de mis proyectos favoritos!*  
+
+---
+
+## 📫 ¿Dónde encontrarme?
+
+- 💌 Correo: tunombre@email.com  
+- 🌐 Web personal / Portafolio: [tusitio.com](https://tusitio.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
+- 🧑‍💻 [GitHub](https://github.com/TuUsuarioGitHub)
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuarioGitHub&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="working hard gif">
 </p>
-
----
-
-### 🌐 Conectemos
 
 <p align="center">
-  <a href="https://linkedin.com/in/TuPerfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/TuUsuario" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://tuportafolio.dev" target="_blank"><img src="https://img.shields.io/badge/-Portafolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+  ✨ *Gracias por visitar mi perfil, ¡nos leemos en el código!* ✨
 </p>
-
----
-
-### 💡 Frase que me inspira:
-> _"El software es una gran combinación entre arte e ingeniería."_ – Bill Gates
-
----
-
-<p align="center">Gracias por visitar mi perfil ✨ ¡Estoy construyendo algo increíble! 🚧</p>
