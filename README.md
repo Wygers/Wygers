@@ -15,7 +15,7 @@
 🎓 Actualmente, me encuentro aprendiendo y desarrollando proyectos con tecnologías modernas.  
 🧩 Me interesa el desarrollo móvil, web y el diseño de bases de datos.  
 🔍 Me gusta resolver problemas y entender cómo funcionan las cosas.  
-🎯 Siempre buscando mejorar mis habilidades y asumir nuevos desafíos.  
+🎯 Siempre buscando mejorar mis habilidades.  
 
 ---
 
@@ -41,37 +41,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
-
----
-
-## 🌟 Proyectos Destacados
-
-🚧 *En construcción... ¡Muy pronto compartiré algunos de mis proyectos favoritos!*  
-
----
-
 ## 📫 ¿Dónde encontrarme?
 
-- 💌 Correo: tunombre@email.com  
-- 🌐 Web personal / Portafolio: [tusitio.com](https://tusitio.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
-- 🧑‍💻 [GitHub](https://github.com/TuUsuarioGitHub)
+- 💌 Correo: v.bravo27@alumnos.santotomas.cl   
+- 🧑‍💻 [GitHub](https://github.com/Wygers)
 
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="working hard gif">
 </p>
-
 <p align="center">
   ✨ *Gracias por visitar mi perfil, ¡nos leemos en el código!* ✨
 </p>
