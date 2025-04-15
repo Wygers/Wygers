@@ -52,5 +52,5 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="working hard gif">
 </p>
 <p align="center">
-  ✨ *Gracias por visitar mi perfil, ¡nos leemos en el código!* ✨
+  ✨ *Gracias por visitar mi perfil!* ✨
 </p>
