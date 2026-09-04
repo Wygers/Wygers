@@ -40,26 +40,27 @@
 
 ---
 
+---
+
 ## ⚡ Estadísticas de GitHub ⚡
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wygers&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Vicente" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wygers&theme=radical&hide_border=true" alt="Racha de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wygers&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://komarev.com/ghpvc/?username=Wygers&label=PROFILE+VIEWS&style=flat-square&color=007acc" alt="Profile Views" />
 </p>
 
 ---
 
 ## 📈 Actividad en GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wygers&theme=radical&hide_border=true" alt="Racha en GitHub" />
-</p>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wygers/Wygers/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wygers/Wygers/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Wygers/Wygers/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
