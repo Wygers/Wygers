@@ -40,12 +40,10 @@
 
 ---
 
----
-
 ## ⚡ Estadísticas de GitHub ⚡
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wygers&theme=radical&hide_border=true" alt="Racha de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wygers&theme=radical&hide_border=true" alt="Racha en GitHub" />
 </p>
 
 <p align="center">
