@@ -16,6 +16,20 @@
 
 ---
 
+## 🐍 Actividad en GitHub
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wygers/Wygers/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wygers/Wygers/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Wygers/Wygers/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
 ## 🚀 Sobre mí
 
 🎓 Estudiante de Ingeniería Informática, desarrollando soluciones tecnológicas orientadas a organizaciones.
@@ -131,22 +145,6 @@ Sistema web desarrollado para facilitar la planificación, asignación, seguimie
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wygers&theme=radical&hide_border=true" alt="GitHub Streak">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wygers&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados">
-
-</div>
-
----
-
-## 🐍 Actividad en GitHub
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wygers/Wygers/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wygers/Wygers/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Wygers/Wygers/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-*Una serpiente animada recorriendo mis contribuciones en GitHub.*
 
 </div>
 
